@@ -1,0 +1,183 @@
+@import url("https://use.typekit.net/jrn8tvo.css");
+*{
+    margin: 0 auto;
+    background-color: #8B8C88;
+    font-family: "roboto-slab", serif;
+    scroll-behavior: smooth;
+}
+
+.botaoprojeto{
+    text-decoration: none;
+    color:#BEBFBD;
+}
+
+.botaoprojeto:hover{
+    color:rgb(255, 255, 255)  
+}
+
+.botaoprojeto2{
+    text-decoration: none;
+    color:#BEBFBD;
+}
+
+.botaoprojeto2:hover{
+    color:rgb(255, 255, 255)  
+}
+
+.botaoprojeto3{
+    text-decoration: none;
+    color:#BEBFBD;
+}
+
+.botaoprojeto3:hover{
+    color:rgb(255, 255, 255)  
+}
+
+#menu {
+    display: flex;
+    padding: 9px;
+  }
+
+.menu button {
+    padding: 0%;
+    margin-left: 6.5px;
+    border-style: none;
+    display: flex;
+    font-weight: 500;
+    font-style: normal;
+    font-size: medium;
+    color: #BEBFBD;
+    margin: 4.5px;
+}
+
+button:hover{
+    color:rgb(255, 255, 255)
+}
+
+#info{
+    color: rgb(255,255, 255);
+    margin-left: 9.7px;
+    margin-right:480px; 
+    background-color: #8B8C88;
+    font-weight: 400;
+    font-style: normal;
+    height: 475px;
+    padding: 5px;
+    margin-top: -15px;
+}
+
+#barra{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
+
+#projeto{
+    background-color:#c1c1bf;
+    height: 525px;
+    display: flex;
+    padding: 5px;
+
+}
+
+#projeto2{
+    background-color: #A4A6A4;
+    height: 525px;
+    display: flex;
+    padding: 5px;
+}
+
+#projeto3{
+    background-color:#727372;
+    height: 525px;
+    display: flex;
+    padding: 5px;
+}
+
+footer{
+    height: 55px;
+    float: left;
+    margin-left: 11px;
+    margin-top: 7.5px;  
+    padding: 5px;
+}
+
+.botaocontato{
+    text-decoration: none;
+    color:#BEBFBD;
+}
+
+.botaocontato:hover{
+    color:rgb(255, 255, 255)  
+}
+
+.github{
+    height: 45px;
+    width: 45px;
+}
+
+.linkedin{
+    height: 45px;
+    width: 45px; 
+    margin-left: 5px;
+}
+
+.github:hover{
+    opacity: 0.5;
+}
+
+.linkedin:hover{
+    opacity: 0.5;
+}
+
+.bloco1{
+    background-color: #c1c1bf;
+}
+
+.textop1{
+    background-color:#c1c1bf;
+    width: 300px;
+    display: flex;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.bloco2{
+    background-color: #A4A6A4;
+
+}
+
+.email{
+    text-decoration: none;
+    color: #000000;
+    margin-left: 25px;
+}
+
+.textop2{
+    background-color: #A4A6A4;
+    width: 300px;
+    display: flex;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.bloco3{
+    background-color: #4f4e4e;
+    height: 475px;
+    width: 600px;
+    border-radius: 6px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.textop3{
+    background-color:#727372;
+    width: 300px;
+    display: flex;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+nav{
+    margin-left: 2px;
+}
